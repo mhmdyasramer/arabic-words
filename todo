@@ -1,0 +1,14 @@
++ Add a second screen to view word details
++ Secure the words API wit an access token
++ Change the color scheme
++ Make it installable (PWA)
++ Record audio for words
++ Add other accents
++ Add filter option
++ Add bookmarking option
++ Add authentication
++ Make it Multi-page with Svelte and Sapper
++ Create a Flutter app like it
++ Publish it
+
+- Make it search in both target and source language (English <-> arabic) -- done
